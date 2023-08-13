@@ -1,10 +1,4 @@
-# Dynamic-Portfolio
-_first dynamic portfolio that will soon be uploaded to a web platform to show all its features_
+This Code belongs to Francisco Pugh , It has inspired me to build a similar gallery and I have taken the liberty to leverage the code efficency and have used it in my project.
+Thanks to Fransisco Pugh
+~IamGP 
 
-## Screenshot 📌
-![alt text](https://github.com/franciscopugh/dynamic-portfolio/blob/master/docs/img.png)
-
-## Deployment  📦
-_The deployment of the application is through github pages_         
-
-[Dynamic Portfolio](https://franciscopugh.github.io/dynamic-portfolio/)
